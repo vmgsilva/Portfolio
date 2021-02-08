@@ -1,2 +1,10 @@
-# Portfolio
-template.
+title: Victoria Silva # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Repository containing portfolio of data science projects completed by me for academic and self-learning purposes. 
+  <br><br>
+  For more information regarding my work, please see [here](https://victoria-silva.carrd.co/)
+  <br><br>
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
