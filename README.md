@@ -1,6 +1,6 @@
 # Data Science Portfolio 
 
-Repository containing portfolio of data science projects completed by me for academic and self-learning purposes. For more information regarding my work, please see [here](https://victoria-silva.carrd.co/).
+Welcome! This is repository contains my portfolio of data science projects I've completed for academic and self-learning purposes. For more information regarding my work, please see [here](https://victoria-silva.carrd.co/).
 
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 
