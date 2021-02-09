@@ -6,8 +6,4 @@ My name is Victoria, and this repository contains my portfolio of data science p
 
 <img src="images/logo1.png?raw=true">
 
-
-![Alt Text](/images/logo1.png)
-
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+If you've liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at vmg.silva@mail.utoronto.ca.
