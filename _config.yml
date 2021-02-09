@@ -1,10 +1,19 @@
 title: Victoria Silva # your name (or website title) here
 logo: "/images/logo1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Repository containing portfolio of data science projects completed by me for academic and self-learning purposes. 
+  # Data Science Portfolio 
+
+  Welcome! 
+
+  My name is Victoria, and this repository contains my portfolio of data science projects I've completed for academic and self-learning purposes. 
   <br><br>
-  For more information regarding my work, please see [here](https://victoria-silva.carrd.co/)
+  For more information regarding my work, please see [here](https://victoria-silva.carrd.co/). 
+  <img src="images/logo1.png?raw=true">
+
+  
   <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+If you've liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot me an email at vmg.silva@mail.utoronto.ca.
